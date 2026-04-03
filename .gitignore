@@ -1,0 +1,10 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+backend/chroma_db/
+
+# OS
+.DS_Store
+Thumbs.db
